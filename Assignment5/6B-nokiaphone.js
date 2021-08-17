@@ -12,5 +12,5 @@ function nokia(str, arr, arr2, str2="", ind = 0) {
 }
 let arr = ["", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuvw", "xyz"];
 let arr2 = [];
-noiad("12", arr, arr2);
+nokia("12", arr, arr2);
 console.log(arr2);
